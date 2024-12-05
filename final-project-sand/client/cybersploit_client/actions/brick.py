@@ -1,0 +1,2 @@
+def brick():
+    print("BRICK! 🧱")
